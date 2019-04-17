@@ -1,6 +1,8 @@
 #Omar De La Torre
 #4/9/2019
 
+# Missing comment
+
 xlist=[1,2,3,4,5,6,7,8,9 ,-1, -2]
 
 negSum = 0
