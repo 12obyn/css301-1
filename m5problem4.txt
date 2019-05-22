@@ -2,6 +2,7 @@
 // Module 5 Problem 4
 // 5/14/2019
 
+// What does this program do?
 
 public class module5problem4
 {
